@@ -11,6 +11,7 @@
 - Xiaomi 12 (cupid)
 - Redmi K50 Ultra / Xiaomi 12T Pro (diting)
 - POCO F5 / Redmi Note 12 Turbo (marble)
+- POCO F5 Pro / Redmi k60 (mondrian)
 
 ## Copyright
 
